@@ -1,0 +1,10 @@
+Django
+djangorestframework
+pymongo[srv]
+requests
+django-oauth-toolkit
+django-cors-headers
+gunicorn
+psycopg2
+whitenoise
+furo==2021.11.16
